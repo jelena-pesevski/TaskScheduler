@@ -1,0 +1,9 @@
+C:\Users\Jelena\source\repos\OposZadaci2020\MyLibrary\bin\Debug\netstandard2.1\MyLibrary.deps.json
+C:\Users\Jelena\source\repos\OposZadaci2020\MyLibrary\bin\Debug\netstandard2.1\MyLibrary.dll
+C:\Users\Jelena\source\repos\OposZadaci2020\MyLibrary\bin\Debug\netstandard2.1\MyLibrary.pdb
+C:\Users\Jelena\source\repos\OposZadaci2020\MyLibrary\obj\Debug\netstandard2.1\MyLibrary.csprojAssemblyReference.cache
+C:\Users\Jelena\source\repos\OposZadaci2020\MyLibrary\obj\Debug\netstandard2.1\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Jelena\source\repos\OposZadaci2020\MyLibrary\obj\Debug\netstandard2.1\MyLibrary.AssemblyInfo.cs
+C:\Users\Jelena\source\repos\OposZadaci2020\MyLibrary\obj\Debug\netstandard2.1\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\OposZadaci2020\MyLibrary\obj\Debug\netstandard2.1\MyLibrary.dll
+C:\Users\Jelena\source\repos\OposZadaci2020\MyLibrary\obj\Debug\netstandard2.1\MyLibrary.pdb

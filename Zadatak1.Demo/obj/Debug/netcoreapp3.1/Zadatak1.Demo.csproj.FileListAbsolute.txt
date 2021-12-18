@@ -1,0 +1,16 @@
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.exe
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.deps.json
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.runtimeconfig.json
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.runtimeconfig.dev.json
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.dll
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\Zadatak1.Demo.pdb
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.csprojAssemblyReference.cache
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.AssemblyInfoInputs.cache
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.AssemblyInfo.cs
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.csproj.CopyComplete
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.dll
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.pdb
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\obj\Debug\netcoreapp3.1\Zadatak1.Demo.genruntimeconfig.cache
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\Jelena\source\repos\OposZadaci2020\Zadatak1.Demo\bin\Debug\netcoreapp3.1\MyLibrary.pdb

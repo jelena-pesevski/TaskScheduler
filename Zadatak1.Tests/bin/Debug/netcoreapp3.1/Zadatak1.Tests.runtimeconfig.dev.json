@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jelena\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jelena\\.nuget\\packages"
+    ]
+  }
+}
